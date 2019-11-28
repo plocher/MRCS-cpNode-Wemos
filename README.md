@@ -1,5 +1,5 @@
 # MRCS-cpNode-Wemos
-## License: CERN Open Hardware Licence v1.2
+## License: Creative Commons Attribution-NonCommercial-ShareAlike
 
 cpNode (2.7" Tyco Rail) processor for MRCS CMRI applications
 
